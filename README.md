@@ -1,7 +1,6 @@
-# Multiwii
+# Multiwii - Simply drone build with arduino nano
 
-I want to build a drone with a simple flight controller, so I search in the internet and I found a multiwii code that supports a MPU6050 and an Arduino Uno with a angle mode control.
-
+Build a drone with a simple flight controller, so I search in the internet and I found a multiwii code that supports a MPU6050 and an Arduino Uno with a angle mode control.
 
 ## Tutorials videos
 
